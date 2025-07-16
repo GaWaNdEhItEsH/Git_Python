@@ -1,1 +1,1 @@
-This is a python code for single inheritance. version 2
+This is a python code for single inheritance.  version 2
